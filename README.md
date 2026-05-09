@@ -161,7 +161,7 @@ This dashboard answers important business questions such as:
 ---
 
 ## Regional & Customer Dashboard
-![Insights and Recommendation Dashboard](insights-recommendation-dashboard.png)
+![Insights & Recommendation](insights-recommendation-dashboard.png)
 
 ---
 
