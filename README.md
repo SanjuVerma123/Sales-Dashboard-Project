@@ -160,7 +160,7 @@ This dashboard answers important business questions such as:
 
 ---
 
-## Regional & Customer Dashboard
+## Insights & Recommendation Dashboard
 ![Insights & Recommendation](insights-recommendation-dashboard.png)
 
 ---
@@ -238,10 +238,14 @@ Sales-Dashboard-Project/
 # 🤝 Connect With Me
 
 ## LinkedIn
-[My Linkedin Profile Link]([https://www.linkedin.com/in/sanju1234])
+[My Linkedin Profile Link]([https://www.linkedin.com/in/sanju1234)
+
+https://www.linkedin.com/in/sanju1234
+
+[My Linkedin Profile Link](https://www.linkedin.com/in/sanju1234)
 
 ## GitHub
-[My GitHub Profile Link]([https://github.com/SanjuVerma123])
+[My GitHub Profile Link](https://github.com/SanjuVerma123)
 
 ---
 
