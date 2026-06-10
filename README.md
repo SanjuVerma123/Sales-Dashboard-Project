@@ -146,22 +146,22 @@ This dashboard answers important business questions such as:
 # 🖼 Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](executive-dashboard.png)
+![Executive Dashboard](A.png)
 
 ---
 
 ## Product Analysis Dashboard
-![Product Analysis](product-analysis.png)
+![Product Analysis](B.png)
 
 ---
 
 ## Regional & Customer Dashboard
-![Regional Dashboard](regional-dashboard.png)
+![Regional Dashboard](C.png)
 
 ---
 
 ## Insights & Recommendation Dashboard
-![Insights & Recommendation](insights-recommendation-dashboard.png)
+![Insights & Recommendation](D.png)
 
 ---
 
